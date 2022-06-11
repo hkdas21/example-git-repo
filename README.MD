@@ -1,7 +1,7 @@
 Static Website Example
 ----------------------
 
-To be used with Cloud Academy labs.
+Azure Labs Demo Repo
 
 
 License
